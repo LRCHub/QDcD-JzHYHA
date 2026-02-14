@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "踊踊踊レ",
+  "base_artist": "未来古代楽団",
+  "createdAt": "2026-02-14T07:49:08.987253Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "踊踊踊レ (feat. 霜月はるか)",
+      "artist": "未来古代楽団",
+      "has_synced": false,
+      "path": "select/pl_01_踊踊踊レ_(feat._霜月はるか)_未来古代楽団.txt"
+    }
+  ]
+}
